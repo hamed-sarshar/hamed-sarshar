@@ -1,3 +1,8 @@
+<p align="center">
+ <a href="#" alt="Hamed Sarshar github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamed-sarshar&theme=buefy&show_icons=true" />
+ </a>
+</p>
 - 👋 Hi, I’m @hamed-sarshar
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning ...
