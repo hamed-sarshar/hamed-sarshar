@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I'm Hamed Sarshar </h1>
 <p align="center">
  <a href="#" alt="Hamed Sarshar github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hamed-sarshar&theme=buefy&show_icons=true" />
