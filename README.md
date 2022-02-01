@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamed-sarshar&theme=buefy&show_icons=true" />
  </a>
 </p>
-<div>
+<div style="display: none;">
  - 👋 Hi, I’m @hamed-sarshar
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning ...
