@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Hamed Sarshar </h1>
 <p align="center">
- <a href="http://hamed-sarshar.cvbuilder.me/en" alt="Hamed Sarshar github stats">
+ <a href="http://hamed-sarshar.cvbuilder.me/en" target="blank" alt="Hamed Sarshar">
   <img src="https://github-readme-stats.vercel.app/api?username=hamed-sarshar&theme=buefy&show_icons=true" />
  </a>
 </p>
